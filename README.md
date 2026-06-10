@@ -1,8 +1,8 @@
-progress:
+<em>progress:</em>
 
 early 2026: https://shermanda1919-personal-website.netlify.app/
 
-now: https://amandaleesherman.github.io/personal-website/
+**now:** https://amandaleesherman.github.io/personal-website/
 
 i coded in 2 hrs today using reactjs, tailwindcss, and vite with formspree for emails
 
