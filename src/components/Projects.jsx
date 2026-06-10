@@ -40,7 +40,7 @@ const projects = [
     title: "FuseBloom",
     description:
       "Founded FuseBloom, which placed 12 high schoolers in internships and won 2nd Place in 2023 Minute Pitch entrepreneurship competition",
-    link: "https://github.com/amandaleesherman/fusebloom",
+    link: "https://fusebloom.netlify.app/",
   },
 ];
 
