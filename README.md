@@ -1,6 +1,6 @@
 <em>progress:</em>
 
-early 2026: https://shermanda1919-personal-website.netlify.app/
+early 2025: https://shermanda1919-personal-website.netlify.app/
 
 **now:** https://amandaleesherman.github.io/personal-website/
 
