@@ -8,7 +8,7 @@ i coded in 2 hrs today using reactjs, tailwindcss, and vite with formspree for e
 
 here's steps for pushing future changes to this site to github and deploying the site:
 
-git add .
-git commit -m "Update project link"
-git push origin main
-npm run deploy
+git add . <br>
+git commit -m "Update project link" <br>
+git push origin main <br>
+npm run deploy <br>
